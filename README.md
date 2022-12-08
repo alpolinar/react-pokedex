@@ -1,6 +1,6 @@
 # React Pokedex
 
-This project was bootstraped with [Vite](https://vitejs.dev/), using [React](https://reactjs.org/), [Redux](https://redux.js.org/), [Redux Toolkit](https://redux-toolkit.js.org/) and [Tailwind](https://tailwindcss.tw/).
+This project was bootstraped with [Vite](https://vitejs.dev/), using [React](https://reactjs.org/), [Redux](https://redux.js.org/), [Redux Toolkit](https://redux-toolkit.js.org/) and [Tailwind](https://tailwindcss.tw/). You can try the app [here](https://react-pokedex-ap.netlify.app/).
 
 ## API Used
 
